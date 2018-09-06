@@ -1,3 +1,8 @@
+/* 
+( -> count ++;
+) -> count --;
+최종 count == 0
+*/
 #include <iostream>
 #include <cstdlib>
 using namespace std;
